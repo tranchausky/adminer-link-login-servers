@@ -1,0 +1,23 @@
+{
+  "Server 1": {
+    "driver": "server",
+    "server": "192.168.1.104:3301",
+    "username": "root",
+    "password": "123456",
+    "db": ""
+  },
+  "Server 2": {
+    "driver": "server",
+    "server": "192.168.1.104:3302",
+    "username": "root",
+    "password": "123456",
+    "db": ""
+  },
+  "Server 3": {
+    "driver": "server",
+    "server": "192.168.1.104:3303",
+    "username": "root",
+    "password": "123456",
+    "db": ""
+  }
+}
